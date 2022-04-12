@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ex5Demo</string>
+    <string name="tip_account">请输入账号</string>
+
+    <string name="tip_password">请输入密码</string>
+    <string name="sign_in">登陆</string>
+
+</resources>
